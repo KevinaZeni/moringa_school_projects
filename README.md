@@ -1,2 +1,2 @@
-# Financial_Inclusion_in_East_Africa
+# Moringa_school_projects
 This repository contains all my DS Independent Projects
